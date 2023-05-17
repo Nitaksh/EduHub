@@ -1,3 +1,15 @@
 # AcademicPortal
-An object oriented approach towards an academic portal that maintains records of both students and teachers. \n
-It also allows teachers to assign work to students in a very intuitive way.
+An object oriented approach towards an academic portal that maintains records of both students and teachers.
+
+# Features for Staff
+* 1) ASSIGN WORK FOR WHOLE CLASS
+* 2) ASSIGN WORK FOR SINGLE STUDENT
+* 3) DELETE ALL THE INDIVIDUAL ASSIGNMENTS
+* 4) DELETE ALL THE CLASSWISE ASSIGNMENTS
+* 5) DELETE SAVED STUDENT FROM THE SYSTEM
+* 6) UPDATE THE INDIVIDUAL ASSIGNMENT
+* 8) UPDATE CLASSWISE ASSIGNMENT
+
+#Features for Students
+* 1) CHECK FOR CLASS ASSIGNMENTS
+* 2) CHECK FOR INDIVIDUAL ASSIGNMENTS
