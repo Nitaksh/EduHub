@@ -10,6 +10,6 @@ An object oriented approach towards an academic portal that maintains records of
 * 6) UPDATE THE INDIVIDUAL ASSIGNMENT
 * 8) UPDATE CLASSWISE ASSIGNMENT
 
-#Features for Students
+# Features for Students
 * 1) CHECK FOR CLASS ASSIGNMENTS
 * 2) CHECK FOR INDIVIDUAL ASSIGNMENTS
