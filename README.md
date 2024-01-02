@@ -1,4 +1,4 @@
-# AcademicPortal
+# EduHub
 An object oriented approach towards an academic portal that maintains records of both students and teachers.
 
 # Features for Staff
