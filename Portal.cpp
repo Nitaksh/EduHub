@@ -613,7 +613,7 @@ int main()
     cout<<"/*---------------------------------------------------------------------*/"<<endl;
     cout<<"/*-=-=-=-=-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-=-=-=-=-*/"<<endl;
     cout<<"/*-=-=-=-x                                                     x-=-=-=-*/"<<endl;
-    cout<<"/*-=-=-=-x                                                     x-=-=-=-*/"<<endl;
+    cout<<"/*-=-=-=-x                      EDUHUB                         x-=-=-=-*/"<<endl;
     cout<<"/*-=-=-=-x             C++ PACKAGE (2ND SEMESTER)              x-=-=-=-*/"<<endl;
     cout<<"/*-=-=-=-x                                                     x-=-=-=-*/"<<endl;
     cout<<"/*-=-=-=-x                                                     x-=-=-=-*/"<<endl;
@@ -621,8 +621,8 @@ int main()
     cout<<"/*---------------------------------------------------------------------*/"<<endl;
     cout<<"/*||                                                                 ||*/"<<endl;
     cout<<"/*||                                                                 ||*/"<<endl;
-    cout<<"/*||             Members : 1) Nithish . R        (21pd23)            ||*/"<<endl;
-    cout<<"/*||                       2) Vamsi Krishna . U  (21pd38)            ||*/"<<endl;
+    cout<<"/*||                                                                 ||*/"<<endl;
+    cout<<"/*||                            Nithish R                            ||*/"<<endl;
     cout<<"/*||                                                                 ||*/"<<endl;
     cout<<"/*||              Topic : STUDENT ASSIGNMENT PORTAL                  ||*/"<<endl;
     cout<<"/*||                                                                 ||*/"<<endl;
